@@ -21,7 +21,7 @@ on ant web server or even local file system.
 
 ## How To Contribute
 
-You cant. Sorry
+Please fork this repository and then Pull Requests for review.
 
 ### Copyright
 
