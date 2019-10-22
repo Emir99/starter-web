@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Emir Hajredini    emir.hajredini.99@gmail.com
 
 # THANKS
 
