@@ -20,3 +20,5 @@ This is a simple web project, deployment can be
 on ant web server or even local file system.
 
 ## How To Contribute
+
+You cant. Sorry
